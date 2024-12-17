@@ -1,6 +1,14 @@
 /* Reset CSS */
 @import url('reset.css');
 
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.6;
+  color: var(--white);
+}
+
 body {
   background-color: black;
 }
