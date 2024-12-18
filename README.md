@@ -22,3 +22,5 @@ Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você f
 utilizando o comando `git checkout final` no seu terminal.
 
 🚫 **Somente leitura**: Este repositório é público, mas as alterações são feitas exclusivamente pelo autor. Contribuições podem ser sugeridas por meio de pull requests.
+Este projeto foi desenvolvido para fins educativos. Sinta-se à vontade para usá-lo sob os termos da licença MIT.
+**Autoria**: Lilian
